@@ -16,22 +16,21 @@ A arquitetura está organizada de forma limpa, robusta e escalável.
 # 📁 Estrutura do Projeto
 src/
 └── main/
-    └── kotlin/
-        └── org/example/
-            ├── Main.kt
-            ├── api/
-            │   └── ZenUpApi.kt
-            ├── model/
-            │   ├── LoginRequest.kt
-            │   ├── LoginResponse.kt
-            │   ├── ChatRequest.kt
-            │   ├── ChatResponse.kt
-            │   └── ResumoResponse.kt
-            └── network/
-                ├── ApiClient.kt
-                ├── AuthInterceptor.kt
-                └── provideOkHttpClient.kt
-
+└── kotlin/
+└── org/example/
+├── Main.kt
+├── api/
+│ └── ZenUpApi.kt
+├── model/
+│ ├── LoginRequest.kt
+│ ├── LoginResponse.kt
+│ ├── ChatRequest.kt
+│ ├── ChatResponse.kt
+│ └── ResumoResponse.kt
+└── network/
+├── ApiClient.kt
+├── AuthInterceptor.kt
+└── provideOkHttpClient.kt
 ---
 
 # 🧩 Main.kt  
