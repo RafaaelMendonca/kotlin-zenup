@@ -94,16 +94,24 @@ Intercepta TODAS as requisições para:
 - Fazer logging completo:
 
 ========== REQUEST DEBUG ==========
+
 URL
+
 METHOD
+
 HEADERS
+
 BODY
+
 
 E depois:
 
 ========== RESPONSE DEBUG ==========
+
 STATUS CODE
+
 HEADERS
+
 BODY
 
 É responsável pela autenticação automática e pela inspeção profunda das requisições.
