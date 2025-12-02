@@ -14,7 +14,7 @@ A arquitetura está organizada de forma limpa, robusta e escalável.
 ---
 
 # 📁 Estrutura do Projeto
-![img.png](img.png)
+![img.png](src/main/kotlin/img.png)
 
 
 ---
